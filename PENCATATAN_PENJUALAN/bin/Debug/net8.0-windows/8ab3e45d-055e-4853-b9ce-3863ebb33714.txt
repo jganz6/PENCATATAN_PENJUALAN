@@ -1,0 +1,2 @@
+kaos bali,24,270000
+sepatu vans,80,40000

@@ -1,0 +1,17 @@
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\bin\Debug\net8.0-windows\PENCATATAN_PENJUALAN.exe
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\bin\Debug\net8.0-windows\PENCATATAN_PENJUALAN.deps.json
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\bin\Debug\net8.0-windows\PENCATATAN_PENJUALAN.runtimeconfig.json
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\bin\Debug\net8.0-windows\PENCATATAN_PENJUALAN.dll
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\bin\Debug\net8.0-windows\PENCATATAN_PENJUALAN.pdb
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\PENCATATAN_PENJUALAN.Resources.resources
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\PENCATATAN_PENJUALAN.vbproj.GenerateResource.cache
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\PENCATATAN_PENJUALAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\PENCATATAN_PENJUALAN.AssemblyInfoInputs.cache
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\PENCATATAN_PENJUALAN.AssemblyInfo.vb
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\PENCATATAN_PENJUALAN.vbproj.CoreCompileInputs.cache
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\PENCATATAN_PENJUALAN.dll
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\refint\PENCATATAN_PENJUALAN.dll
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\PENCATATAN_PENJUALAN.pdb
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\PENCATATAN_PENJUALAN.genruntimeconfig.cache
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\ref\PENCATATAN_PENJUALAN.dll
+C:\Users\jenie\source\repos\PENCATATAN_PENJUALAN\PENCATATAN_PENJUALAN\obj\Debug\net8.0-windows\PENCATATAN_PENJUALAN.FormPencatatanPenjualan.resources
